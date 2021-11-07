@@ -5,7 +5,7 @@
 - Unity3D 2020.3.xxx LTS
 - Vuforia 10.2
 
-## vuforia几种常用的对象识别方式
+## 图像、对象识别方案
 
 - Image Targets 简单、平面的图像目标、圆柱形形式的卷曲目标，或组合框的多目标。
 https://library.vuforia.com/objects/best-practices-designing-and-developing-image-based-targets
@@ -19,14 +19,30 @@ https://library.vuforia.com/objects/recommendations-designing-multi-targets
 - Object Targets 玩具、产品、复杂的几何形状 
 https://library.vuforia.com/objects/object-targets
 
-- Model Targets 从家用电器和玩具到车辆，再到大型工业设备，甚至是建筑地标。 
+- ❗️Model Targets 从家用电器和玩具到车辆，再到大型工业设备，甚至是建筑地标。 
 https://library.vuforia.com/model-targets/model-targets-supported-objects-cad-model-best-practices
   - 创建 Model Targets(MTG)
   https://library.vuforia.com/model-targets/how-create-model-target
   - MTG 使用说明
   https://library.vuforia.com/objects/model-target-generator-user-guide
+  - 官方推荐硬件 Structure Sensor (Mark II)
+    - https://library.vuforia.com/model-targets/how-create-model-targets-3d-scans
+    - https://structure.io/structure-sensor-pro
+
+## 空间扫描方案
+
+- 最佳实践
+https://library.vuforia.com/area-targets/best-practices-scanning-environment
+
+- 10 到 50 平米 或 500 平方英尺，最好使用 Vuforia Area Target Creator 应用程序（支持 LiDAR Scanner 的 iPhone/iPad）。
+- 100 到 1000 平米 或 10,000 平方英尺的中等室内空间最好使用 Matterport Pro2 和 Leica scanners。
+- 超过 30.000 平米 或大约 30 万平方英尺推荐 NavVis scanners 和 Leica RTC360。如此大的空间要分割并单独处理，以方便处理并得到更好的性能。
+
 
 ## 教程
+
+- ❗️Model Target 上传3D模型并识别
+https://www.youtube.com/watch?v=OiVCDcYqNYw
 
 - MetaHuman Creator 所有功能试用
 https://www.bilibili.com/video/BV1iK411F7w8/?spm_id_from=333.788.recommend_more_video.-1
@@ -41,6 +57,9 @@ https://b23.tv/bApHAt
 
 - 汽车说明书APP演示
 https://www.36kr.com/video/1409768433534337
+
+- ❗️Model Target 机械原理演示
+https://www.youtube.com/watch?v=xnl5qxv8ot0
 
 - 44470 Hyundai Virtual Guide Overview
 https://www.youtube.com/watch?v=3MdRhROQcKE
