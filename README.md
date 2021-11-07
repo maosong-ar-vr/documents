@@ -97,3 +97,11 @@ https://open.163.com/newview/search/Unity%E7%BA%BF%E4%B8%8A%E6%8A%80%E6%9C%AF%E5
 
 - 请教大厂的大佬们ue4游戏开发，蓝图重要一些 还是c++ 一般招聘更倾向那个？
 https://www.zhihu.com/question/268297447/answer/646396096
+
+## 其它文档/资料
+
+- [AR装配 Automatic generation of augmented reality guided assembly instructions using expert demonstration](./files/automatic-generation-of-augmented-reality-guided-assembly-instruc.pdf)
+
+- [案例整理 - 胡林红](./files/case-linhong-hu.pptx)
+
+- [案例整理 - 朱要良](./files/case-yaoliang-zhu.pptx)
