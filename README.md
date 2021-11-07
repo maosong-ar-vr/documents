@@ -44,6 +44,9 @@ https://library.vuforia.com/area-targets/best-practices-scanning-environment
 - ❗️Model Target 上传3D模型并识别
 https://www.youtube.com/watch?v=OiVCDcYqNYw
 
+- How to Use LiDAR on iPhone & iPad -- What Can It Do?
+https://www.youtube.com/watch?v=UzLzLQQJC30
+
 - MetaHuman Creator 所有功能试用
 https://www.bilibili.com/video/BV1iK411F7w8/?spm_id_from=333.788.recommend_more_video.-1
 
@@ -117,7 +120,13 @@ https://open.163.com/newview/search/Unity%E7%BA%BF%E4%B8%8A%E6%8A%80%E6%9C%AF%E5
 - 请教大厂的大佬们ue4游戏开发，蓝图重要一些 还是c++ 一般招聘更倾向那个？
 https://www.zhihu.com/question/268297447/answer/646396096
 
-## 其它文档/资料
+## 其它文档/资源
+
+- 3D模型搜索网站（需要注册）
+https://www.turbosquid.com
+  - [易拉罐模型文件](./files/beverage-can.fbx)
+  - [玫瑰花模型文件](./files/rose.fbx)
+  - [iPhone 13 Pro 模型文件](./files/iphone-13-pro.blend)
 
 - [AR装配 Automatic generation of augmented reality guided assembly instructions using expert demonstration](./files/automatic-generation-of-augmented-reality-guided-assembly-instruc.pdf)
 
