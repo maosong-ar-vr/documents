@@ -58,19 +58,23 @@ https://b23.tv/bApHAt
 
 ## 案例
 
-- 汽车说明书APP演示
+- [案例整理 - 胡林红](./files/case-linhong-hu.pptx)
+
+- [案例整理 - 朱要良](./files/case-yaoliang-zhu.pptx)
+
+- ❗️汽车说明书APP演示
 https://www.36kr.com/video/1409768433534337
 
 - ❗️Model Target 机械原理演示
 https://www.youtube.com/watch?v=xnl5qxv8ot0
 
-- 44470 Hyundai Virtual Guide Overview
+- ❗️44470 Hyundai Virtual Guide Overview
 https://www.youtube.com/watch?v=3MdRhROQcKE
 
-- 基于Unity AR的数字营销
+- ❗️基于Unity AR的数字营销
 https://blog.unity.com/manufacturing/embedding-real-time-3d-in-your-digital-marketing-strategy
 
-- Hyundai's wild augmented reality owner's manual — CES 2016
+- ❗️Hyundai's wild augmented reality owner's manual — CES 2016
 https://www.youtube.com/watch?v=qOMvl6-cP7o
 
 - Unity 技术开放日 | 绝对干货 - 揭秘最新数字人制作流程
@@ -129,7 +133,3 @@ https://www.turbosquid.com
   - [iPhone 13 Pro 模型文件](./files/iphone-13-pro.blend)
 
 - [AR装配 Automatic generation of augmented reality guided assembly instructions using expert demonstration](./files/automatic-generation-of-augmented-reality-guided-assembly-instruc.pdf)
-
-- [案例整理 - 胡林红](./files/case-linhong-hu.pptx)
-
-- [案例整理 - 朱要良](./files/case-yaoliang-zhu.pptx)
