@@ -26,7 +26,7 @@ https://library.vuforia.com/model-targets/model-targets-supported-objects-cad-mo
   - MTG 使用说明
   https://library.vuforia.com/objects/model-target-generator-user-guide
   - ❗️Model Target 上传3D模型并识别
-    - https://www.youtube.com/watch?v=OiVCDcYqNYw
+  https://www.youtube.com/watch?v=OiVCDcYqNYw
   - 官方推荐硬件 Structure Sensor (Mark II)
     - https://library.vuforia.com/model-targets/how-create-model-targets-3d-scans
     - https://structure.io/structure-sensor-pro
