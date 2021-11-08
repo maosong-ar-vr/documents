@@ -4,6 +4,8 @@
 
 - Unity3D 2020.3.xxx LTS
 - Vuforia 10.2
+  - [Vuforia Engine for Unity 安装](https://library.vuforia.com/getting-started/vuforia-engine-package-unity)
+  - [Add License Key](https://library.vuforia.com/getting-started/add-license-key-your-vuforia-engine-app)
 
 ## 图像、对象识别方案
 
