@@ -10,7 +10,9 @@
 
 ## 手顺
 
-- [VSCode 配置说明](./vscode-settings.md)
+- [Unity 安装](./unity-install.md)
+- [Vuforia Engine 安装](./vuforia-install.md)
+- [VSCode 代码自动提示](./vscode-settings.md)
 
 ## 图像、对象识别方案
 

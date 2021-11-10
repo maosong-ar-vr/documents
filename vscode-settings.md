@@ -1,18 +1,17 @@
-# VSCode 配置说明
-
-实现 VSCode 中 C#、Unity、Vuforia 等的代码完成。
+# VSCode 代码自动提示
 
 ## 安装 SDK
 
-- [Windows: .NET Framework 4.7.1 Developer Pack](https://dotnet.microsoft.com/download/dotnet-framework/net471)
-- [macOS: Download .NET SDK](https://dotnet.microsoft.com/download)
-- [macOS: Mono](https://www.mono-project.com/download/stable/)
-- [Microsoft.Unity.Analyzers](https://www.nuget.org/packages/Microsoft.Unity.Analyzers/)，下载稍后使用
+- [下载 .NET SDK](https://dotnet.microsoft.com/download)
+- [下载 .NET Framework 4.7.1 Developer Pack (Windows Only)](https://dotnet.microsoft.com/download/dotnet-framework/net471)
+- [下载 Mono (macOS Only)](https://www.mono-project.com/download/stable/)
+- [下载 Microsoft.Unity.Analyzers](https://www.nuget.org/packages/Microsoft.Unity.Analyzers/)，解压缩，备用
 
 ## Unity 设置
 
-- 菜单 > Unity > 首选项
-- 外部工具 > 外部脚本编辑器 > 选中 Visual Studio Code
+- Windows: 菜单 > Unity > 首选项 > External Tools
+- macOS: 菜单 > Edit > Preferences > External Tools
+- External Script Editor > 选中 Visual Studio Code
 
 ![nuget](./files/vscode-settings/unity.png)
 
@@ -23,6 +22,8 @@
 - (可选) Debugger for Unity
 - (可选) Unity Code Snippets
 - (可选) Unity Tools
+
+注意：安装插件后，使用 VSCode 第一次打开项目会自动下载一些包
 
 ## 项目配置
 
