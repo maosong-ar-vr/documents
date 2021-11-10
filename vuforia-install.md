@@ -14,3 +14,8 @@
 7. 输入第 3 步申请的 `License key`
 ![](./files/vuforia-install/5.png)
 8. 删除 Main Camera
+
+参考资料：
+
+- [Vuforia Engine Package for Unity](https://library.vuforia.com/getting-started/vuforia-engine-package-unity)
+- [Add a License Key to Your Vuforia Engine App](https://library.vuforia.com/getting-started/add-license-key-your-vuforia-engine-app)
