@@ -5,7 +5,7 @@
 - [下载 .NET SDK](https://dotnet.microsoft.com/download)
 - [下载 .NET Framework 4.7.1 Developer Pack (Windows Only)](https://dotnet.microsoft.com/download/dotnet-framework/net471)
 - [下载 Mono (macOS Only)](https://www.mono-project.com/download/stable/)
-- [下载 Microsoft.Unity.Analyzers](https://www.nuget.org/packages/Microsoft.Unity.Analyzers/)，解压缩，备用
+- `(非必需步骤)` [下载 Microsoft.Unity.Analyzers](https://www.nuget.org/packages/Microsoft.Unity.Analyzers/)，解压缩，备用
 
 ## Unity 设置
 
@@ -25,7 +25,7 @@
 
 注意：安装插件后，使用 VSCode 第一次打开项目会自动下载一些包
 
-## 项目配置
+## 项目配置 `(非必需步骤)`
 
 1. 项目根目录创建 .editorconfig 文件
 
