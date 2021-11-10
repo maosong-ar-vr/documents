@@ -54,3 +54,7 @@ dotnet_diagnostic.IDE0051.severity = none
 ## 完成
 
 关闭 VSCode 和 Unity 并重新启动
+
+## 参考资料
+
+- [Unity Development with VS Code](https://code.visualstudio.com/docs/other/unity)
